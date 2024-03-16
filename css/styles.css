@@ -18,7 +18,11 @@ footer a {
   border-radius: 10px;
   display: block;
   margin: 30px auto;
+
 }
 img {
   overflow: clip;
+  display: flex;
+  justify-content: center;
+  margin: auto;
 }
